@@ -1,3 +1,2 @@
 <?php
-
-phpinfo();
+echo 'this is first commit';
